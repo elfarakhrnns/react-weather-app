@@ -6,7 +6,11 @@ export default function App() {
     <div className="App">
       <h1>Weather App</h1>
       <footer>
-        This project was coded by Elfara Khairunnisa and is open sourced in{" "}
+        This project was coded by{" "}
+        <a href="https://inspiring-puppy-8608c9.netlify.app" target="_blank">
+          Elfara Khairunnisa
+        </a>{" "}
+        and is open-sourced in{" "}
         <a
           href="https://github.com/elfarakhrnns/react-weather-app"
           target="_blank"
