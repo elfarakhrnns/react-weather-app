@@ -30,12 +30,12 @@
   list-style: none;
 }
 
-.Weather img {
-  height: 60px;
-  margin-right: 0px;
-  width: 60px;
-  position: relative;
-  top: -15px;
+.Weather canvas {
+  display: inline-block;
+  height: 52px;
+  margin-top: 5px;
+  margin-right: 5px;
+  width: 52px;
 }
 
 .Weather .temperature {
@@ -47,9 +47,9 @@
 }
 
 .Weather .unit {
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1;
   margin-left: 5px;
   position: relative;
-  top: -32px;
+  top: -34px;
 }
